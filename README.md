@@ -1,6 +1,10 @@
 # sync_hosts
 
+
 使用go hosts解除Resilio Sync/BTSync限制china地区
+
+
+
 
 
 #用于安卓版 go hosts  for  BTSync/Resilio Sync
