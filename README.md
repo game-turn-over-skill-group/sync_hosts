@@ -9,6 +9,7 @@
 
 #用于安卓版 go hosts  for  BTSync/Resilio Sync
 Go Hosts v1.2.7「一键安装hosts」支持免Root模式：http://www.miui.com/thread-6366550-1-1.html
+
 Go Hosts 更新日志-新增 免Root安装模式(VPN本地DNS)：https://fir.im/gohosts
 
 
