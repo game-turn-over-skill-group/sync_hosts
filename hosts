@@ -10,12 +10,12 @@
 #--BTSync--#
 37.187.125.45 config.resilio.com config.getsync.com config.usyncapp.com
 #54.192.212.237 config.getsync.com
-#54.192.212.237 link.getsync.com
-#54.192.212.237 www.getsync.com
+54.192.212.237 link.getsync.com
+54.192.212.237 www.getsync.com
 #52.222.240.21 config.resilio.com
-#52.222.240.21 link.resilio.com
-#52.222.240.21 www.resilio.com
-#52.222.240.21 resilio.com
+52.222.240.21 link.resilio.com
+52.222.240.21 www.resilio.com
+52.222.240.21 resilio.com
 #54.231.114.81 config.usyncapp.com
 
 
