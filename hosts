@@ -1,24 +1,20 @@
 
 
 
-#2017-07-19 02:59:27
-#https://raw.githubusercontent.com/game-turn-over-skill-group/sync_hosts/master/hosts
+# 2017-07-19 19:19:17
+# https://raw.githubusercontent.com/game-turn-over-skill-group/sync_hosts/master/hosts
 
 #--google--#
 202.86.162.172 google.com.sg
 202.86.162.172 www.google.com.sg
 #--BTSync--#
-37.187.125.45 config.resilio.com config.getsync.com config.usyncapp.com
-#54.192.212.237 config.getsync.com
-54.192.212.237 link.getsync.com
-54.192.212.237 www.getsync.com
-#52.222.240.21 config.resilio.com
-52.222.240.21 link.resilio.com
-52.222.240.21 www.resilio.com
-52.222.240.21 resilio.com
-#54.231.114.81 config.usyncapp.com
-
-
+#37.187.125.45 config.resilio.com config.getsync.com config.usyncapp.com
+54.192.212.237 config.getsync.com link.getsync.com www.getsync.com
+52.222.240.21 config.resilio.com link.resilio.com www.resilio.com resilio.com
+54.231.114.81 config.usyncapp.com
+13.32.231.218 i-2000.b-2-4-5.sync.bench.getsync.com
+54.234.132.138 sync-push-proxy.getsync.com
+199.59.149.198 sync-push-proxy.resilio.com
 
 
 
