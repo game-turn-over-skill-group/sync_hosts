@@ -15,7 +15,7 @@ Go Hosts 更新日志-新增 免Root安装模式(VPN本地DNS)：https://fir.im/
 
 # 用于IOS端 Shadowrocket/Surge  for  BTSync/Resilio Sync
 后期是否维护 不作保证 不可控因素 等~
-此项目由原作者scaffrey提供 本人只是补充了SYNC部分作为替换 
+此项目由scaffrey/racaljk等人提供 该项目只补充了sync部分作为替换 
 
 原项目https://coding.net/u/scaffrey/p/hosts/git
 
