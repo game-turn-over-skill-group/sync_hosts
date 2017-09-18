@@ -1,7 +1,7 @@
 
 
 
-# 2017-08-21 04:02:10
+# 2017-09-18 17:10:18
 # https://raw.githubusercontent.com/game-turn-over-skill-group/sync_hosts/master/hosts
 
 #--google--#
@@ -9,8 +9,8 @@
 202.86.162.172 www.google.com.sg
 #--BTSync--#
 52.216.228.10 config.usyncapp.com
-37.187.125.45 config.resilio.com
-37.187.125.45 config.getsync.com
+45.77.69.48 config.resilio.com
+45.77.69.48 config.getsync.com
 
 54.230.108.73 link.getsync.com
 54.230.108.73 www.getsync.com
