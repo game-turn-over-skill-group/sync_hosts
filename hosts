@@ -1,7 +1,7 @@
 
 
 
-# 2017-09-23 19:27:18
+# 2017-09-25 10:25:10
 # https://raw.githubusercontent.com/game-turn-over-skill-group/sync_hosts/master/hosts
 
 #--google--#
@@ -17,6 +17,11 @@
 
 52.85.183.96 link.resilio.com
 52.85.183.96 www.resilio.com
+
+173.244.217.42 tracker1.resilio.com
+209.95.56.60 tracker2.resilio.com
+107.182.230.198 relay1.resilio.com
+173.244.209.150 relay2.resilio.com
 
 #13.32.231.218 i-2000.b-2-4-5.sync.bench.getsync.com
 #13.32.231.218 i-2000.b-2-4-6.sync.bench.getsync.com
