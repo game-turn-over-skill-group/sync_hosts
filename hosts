@@ -1,12 +1,12 @@
 
 
 
-# 2017-10-01 15:58:43
+# 2017-10-18 03:37:12
 # https://raw.githubusercontent.com/game-turn-over-skill-group/sync_hosts/master/hosts
 
-#--google--# for 360jisu-chrome #
-202.86.153.202 google.com.sg
-202.86.153.202 www.google.com.sg
+#--google--#
+2607:f8b0:4006:801::2003 google.com.sg
+2607:f8b0:4006:801::2003 www.google.com.sg
 #--pixiv---#
 210.129.120.44 pixiv.net
 210.129.120.44 www.pixiv.net
@@ -14,18 +14,21 @@
 210.140.131.145 source.pixiv.net
 210.140.131.145 imgaz.pixiv.net
 #--BTSync--#
-45.77.69.48 config.resilio.com
-45.77.69.48 config.getsync.com
-13.32.176.164 config.usyncapp.com
-13.32.176.164 link.getsync.com
-13.32.176.164 www.getsync.com
-13.32.176.164 link.resilio.com
-13.32.176.164 www.resilio.com
-13.32.176.164 i-2000.b-2-4-5.sync.bench.getsync.com
-13.32.176.164 i-2000.b-2-4-6.sync.bench.getsync.com
-13.32.176.164 sync-push-proxy.getsync.com
-13.32.176.164 sync-push-proxy.resilio.com
-13.32.176.164 license.getsync.com
-13.32.176.164 license.resilio.com
+45.32.50.106 config.resilio.com
+45.32.50.106 config.getsync.com
+13.32.14.152 config.usyncapp.com
+13.32.14.152 link.getsync.com
+13.32.14.152 www.getsync.com
+13.32.14.152 link.resilio.com
+13.32.14.152 www.resilio.com
+13.32.14.152 i-2000.b-2-4-5.sync.bench.getsync.com
+13.32.14.152 i-2000.b-2-4-6.sync.bench.getsync.com
+13.32.14.152 sync-push-proxy.getsync.com
+13.32.14.152 sync-push-proxy.resilio.com
+13.32.14.152 license.getsync.com
+13.32.14.152 license.resilio.com
 
-
+173.244.217.42 tracker1.resilio.com
+209.95.56.60 tracker2.resilio.com
+107.182.230.198 relay1.resilio.com
+173.244.209.150 relay2.resilio.com
