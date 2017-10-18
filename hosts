@@ -1,12 +1,14 @@
 
 
 
-# 2017-10-18 03:37:12
+# 2017-10-19 00:39:25
 # https://raw.githubusercontent.com/game-turn-over-skill-group/sync_hosts/master/hosts
 
 #--google--#
 2607:f8b0:4006:801::2003 google.com.sg
 2607:f8b0:4006:801::2003 www.google.com.sg
+#--xunlei--#
+127.0.0.1 hub5btmain.sandai.net
 #--pixiv---#
 210.129.120.44 pixiv.net
 210.129.120.44 www.pixiv.net
@@ -32,3 +34,6 @@
 209.95.56.60 tracker2.resilio.com
 107.182.230.198 relay1.resilio.com
 173.244.209.150 relay2.resilio.com
+
+
+
