@@ -1,7 +1,7 @@
 
 
 
-# 2017-10-19 00:39:25
+# 2017-10-21 03:57:44
 # https://raw.githubusercontent.com/game-turn-over-skill-group/sync_hosts/master/hosts
 
 #--google--#
@@ -9,6 +9,7 @@
 2607:f8b0:4006:801::2003 www.google.com.sg
 #--xunlei--#
 127.0.0.1 hub5btmain.sandai.net
+127.0.0.1 hub5idx.shub.sandai.net
 #--pixiv---#
 210.129.120.44 pixiv.net
 210.129.120.44 www.pixiv.net
