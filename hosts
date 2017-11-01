@@ -1,15 +1,19 @@
 
 
 
-# 2017-10-21 03:57:44
+# 2017-11-01 21:57:36
 # https://raw.githubusercontent.com/game-turn-over-skill-group/sync_hosts/master/hosts
 
 #--google--#
+#google.com=quick.likeso.ml=www.tmeishi.com
 2607:f8b0:4006:801::2003 google.com.sg
 2607:f8b0:4006:801::2003 www.google.com.sg
+#--anime---#
+193.70.95.115 www.kirikiri.tv
 #--xunlei--#
 127.0.0.1 hub5btmain.sandai.net
 127.0.0.1 hub5idx.shub.sandai.net
+127.0.0.1 hub5emu.sandai.net
 #--pixiv---#
 210.129.120.44 pixiv.net
 210.129.120.44 www.pixiv.net
