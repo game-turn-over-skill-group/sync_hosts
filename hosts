@@ -1,8 +1,12 @@
 
 
 
-# 2017-11-02 04:00:51
+# 2017-11-02 20:29:48
 # https://raw.githubusercontent.com/game-turn-over-skill-group/sync_hosts/master/hosts
+
+#If invalid, delete it#
+151.101.72.133 raw.githubusercontent.com
+#---------------------------#
 
 #--google--#-360jisu for IE-#
 #google.com=quick.likeso.ml=www.tmeishi.com
