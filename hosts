@@ -1,31 +1,35 @@
 
 
 
-# 2017-11-03 05:25:37
+# 2017-12-22 16:41:27
 # https://raw.githubusercontent.com/game-turn-over-skill-group/sync_hosts/master/hosts
 # https://coding.net/u/renerli/p/sync_hosts/git/raw/master/hosts
 
-#If invalid, delete it#
-151.101.72.133 raw.githubusercontent.com
-#---------------------------#
 
 #--google--#-360jisu for IE-#The use for IPV6 http://www.jianshu.com/p/a821a874fbfc#
 #google.com=quick.likeso.ml=www.tmeishi.com
-2607:f8b0:4006:81a::2003 google.com.sg
-2607:f8b0:4006:81a::2003 www.google.com.sg
-#--anime---# baiduDNS=180.76.76.76 #
-172.96.14.151 www.kirikiri.tv
-#--xunlei--#
-127.0.0.1 hub5btmain.sandai.net
-127.0.0.1 hub5idx.shub.sandai.net
-127.0.0.1 hub5emu.sandai.net
+2607:f8b0:4006:803::2003 www.google.com.sg
+2607:f8b0:4006:803::200e drive.google.com
+2607:f8b0:4006:803::2001 lh3.googleusercontent.com
+2607:f8b0:4006:803::200d accounts.google.com
+2607:f8b0:4006:814::200a www.googleapis.com
 #--pixiv---#
-210.129.120.44 pixiv.net
-210.129.120.44 www.pixiv.net
-210.129.120.44 accounts.pixiv.net
-210.140.131.145 source.pixiv.net
-210.140.131.145 imgaz.pixiv.net
-#--BTSync--#
+210.129.120.40 pixiv.net
+210.129.120.40 www.pixiv.net
+210.129.120.40 accounts.pixiv.net
+210.129.120.40 touch.pixiv.net
+210.129.120.40 factory.pixiv.net
+210.129.120.40 oauth.secure.pixiv.net
+210.129.120.40 sensei.pixiv.net
+210.129.120.40 recruit.pixiv.net
+210.129.120.40 en-dic.pixiv.net
+210.129.120.40 app-api.pixiv.net
+210.140.131.147 source.pixiv.net
+210.140.131.147 imgaz.pixiv.net
+210.140.131.147 comic.pixiv.net
+210.140.131.147 novel.pixiv.net
+210.140.170.179 sketch.pixiv.net
+#--BTSync--# 2017-11-03 05:25:37 #
 45.32.50.106 config.resilio.com
 45.32.50.106 config.getsync.com
 13.32.14.152 config.usyncapp.com
@@ -39,7 +43,6 @@
 13.32.14.152 sync-push-proxy.resilio.com
 13.32.14.152 license.getsync.com
 13.32.14.152 license.resilio.com
-
 #173.244.217.42 tracker1.resilio.com
 #209.95.56.60 tracker2.resilio.com
 #107.182.230.198 relay1.resilio.com
