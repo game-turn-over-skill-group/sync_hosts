@@ -1,7 +1,7 @@
 
 
 
-# 2017-12-22 16:41:27
+# 2018-07-27 15:54:13
 # https://raw.githubusercontent.com/game-turn-over-skill-group/sync_hosts/master/hosts
 # https://coding.net/u/renerli/p/sync_hosts/git/raw/master/hosts
 
@@ -13,6 +13,8 @@
 2607:f8b0:4006:803::2001 lh3.googleusercontent.com
 2607:f8b0:4006:803::200d accounts.google.com
 2607:f8b0:4006:814::200a www.googleapis.com
+#www.kirikiri.live
+91.199.149.158 www.kirikiri.tv
 #--pixiv---#
 210.129.120.40 pixiv.net
 210.129.120.40 www.pixiv.net
